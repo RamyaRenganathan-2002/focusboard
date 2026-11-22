@@ -2,15 +2,9 @@
 
 A responsive, single-user task management dashboard built with **React + Vite**. Users can create, edit, delete and filter tasks, track progress through live statistics, and browse a three-slide Focus Notes carousel. All data is saved in the browser with `localStorage`.
 
-- **Live app:** https://YOUR-APP.vercel.app
-- **GitHub repo:** https://github.com/YOUR-USERNAME/focusboard
+- **Live app:** [https://YOUR-APP.vercel.app](https://focusboard-lac.vercel.app/)
 - **Author:** Ramya
 
-## Screenshots
-
-| Desktop (1440px) | Mobile (390px) |
-| --- | --- |
-| ![Desktop view](screenshots/desktop.png) | ![Mobile view](screenshots/mobile.png) |
 
 ## Tech stack
 
